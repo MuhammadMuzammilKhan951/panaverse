@@ -58,7 +58,7 @@ export default function page() {
 
       {/* curved start */}
 
-      <div className="curved">
+      <div className="curved bg-white">
       </div>
 
       {/* curved end */}
