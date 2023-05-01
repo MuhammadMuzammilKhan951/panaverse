@@ -6,7 +6,7 @@ export default function page() {
 
     // main div
 
-    <div>
+    <div  className=' bg-white'>
       <Head/>
 
       {/* head nav start */}
