@@ -362,6 +362,7 @@ export default function page() {
          </div> 
        </div> 
     </div>
+    
     // main div closed
   )
 }
